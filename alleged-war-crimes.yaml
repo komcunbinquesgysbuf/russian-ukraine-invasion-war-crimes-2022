@@ -6,3 +6,9 @@ war-crimes:
     title: "Civilian buildings marked for airstrikes"
     city: "Kyiv"
     verified: false
+  -
+    date: 2/25
+    source_initial: "https://twitter.com/YateeshRonija/status/1497254001708253184"
+    title: "Russian troops machine-gun a hospital"
+    city: "Melitopol"
+    verified: false
