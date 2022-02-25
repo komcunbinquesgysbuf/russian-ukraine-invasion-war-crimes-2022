@@ -12,3 +12,10 @@ war-crimes:
     title: "Russian troops machine-gun a hospital"
     city: "Melitopol"
     verified: false
+  -
+    date: 2/25
+    title: "Apparent Russian tank delibarately crushes civilian car"
+    source_initial: "https://twitter.com/56blackcat/status/1497206708439072768"
+    city: null
+    needs_investigation: true
+    verified: false
