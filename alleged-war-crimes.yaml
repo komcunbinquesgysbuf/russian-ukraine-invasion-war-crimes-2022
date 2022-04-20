@@ -19,3 +19,21 @@ war-crimes:
     city: null
     needs_investigation: true
     verified: false
+  -
+    date: 2022-02-24
+    title: Russian Cluster Munition Hits Hospital
+    city: Vuhledar
+    source_initial: https://www.hrw.org/news/2022/02/25/ukraine-russian-cluster-munition-hits-hospital
+    verified: false
+  -
+    date: 2022-02-25
+    title: Cluster munitions kill child and two other civilians taking shelter at a preschool
+    city: Okhtyrka
+    source_initial:
+    verified: false
+  -
+    date:
+    title: Summary Executions, Other Grave Abuses by Russian Forces
+    city:
+    source_initial: https://www.hrw.org/news/2022/04/03/ukraine-apparent-war-crimes-russia-controlled-areas
+    verified: false
